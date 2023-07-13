@@ -1,0 +1,9 @@
+step 1 : Open StudentAccommodationSystem folder in Visual Studio Code
+Step 2 : Run requirement.txt using "pip install -r requirements.txt" or "py -m pip install -r requirements.txt"
+Step 3 : Run main.py using play triangle button with either debug mode or without debug mode.
+Note :- Program will run only throught main.py
+
+Info:- Used MVC Architctural Design
+        Used Inheritance, object of Python to show OOPs Concept
+        For testing used Pytest assert keyword and also used print statement to check program's working
+        
